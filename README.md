@@ -1,2 +1,2 @@
-# ML-programming-
+# ML-programming
 Machine learning projects 
